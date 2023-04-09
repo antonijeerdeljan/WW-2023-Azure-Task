@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WW_2023_Azure_Task": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7083",
+      "launchBrowser": false
+    }
+  }
+}
