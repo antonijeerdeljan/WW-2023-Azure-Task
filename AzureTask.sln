@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureTask", "AzureTask\AzureTask.csproj", "{AE55037F-115F-4437-B7CE-B80EA4BF0063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureEmailTask", "AzureEmailTask\AzureEmailTask.csproj", "{864BC743-E647-4DA3-B095-9D6C74BC355C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE55037F-115F-4437-B7CE-B80EA4BF0063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE55037F-115F-4437-B7CE-B80EA4BF0063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE55037F-115F-4437-B7CE-B80EA4BF0063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE55037F-115F-4437-B7CE-B80EA4BF0063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864BC743-E647-4DA3-B095-9D6C74BC355C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864BC743-E647-4DA3-B095-9D6C74BC355C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864BC743-E647-4DA3-B095-9D6C74BC355C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864BC743-E647-4DA3-B095-9D6C74BC355C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9A6953-AB95-40CD-B1A6-7AC054C1C18C}
+	EndGlobalSection
+EndGlobal
